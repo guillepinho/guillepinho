@@ -1,6 +1,6 @@
 # Prazer, Guilherme Pinho!
 
-📓 Estudante - Web Development Full Stack na TRYBE.
+📓 Estudante - Web Development Full Stack na TRYBE.  
 ⭐ Competências - JavaScript, HTML e CSS.
 
 <div align="center">
