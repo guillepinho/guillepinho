@@ -1,6 +1,6 @@
 # Hello World, I'm Guilherme Pinho!
 
-I love **solving problems** through **softwares and coding**. Currently studing at <a href="https://www.betrybe.com/">TRYBE</a> to soon become a full stack Web Developer.*
+I love **solving problems** through **softwares and coding**. Currently studing at <a href="https://www.betrybe.com/">TRYBE</a> to soon become a full stack Web Developer.
 
 So far I've created a few projects aiming to practice and improve my current skills and also programming logic. My favorite project so far was a Discord Bot (<a href="https://github.com/guillepinho/AstroBot">Astro</a>) created to moderate and entertain a 200 people community of friends.
 
