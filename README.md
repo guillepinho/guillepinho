@@ -1,22 +1,21 @@
 # Hello World, I'm Guilherme Pinho!
 
-<div class="row">
-  <div class="column">
-    I love solving problems through softwares and coding.  
-      
-    📓 Student - Web Development Full Stack at TRYBE.  
-    ⭐ Skills - JavaScript, HTML, CSS and Git.  
-  </div>
+I love **solving problems** through **softwares and coding**. Currently studing at <a href="https://www.betrybe.com/">TRYBE</a> to soon become a full stack Web Developer.*
 
-  
-  
-  <div class="column">
-    Passionado por resolver problemas por meio de softwares e codes.
-      
-    📓 Estudante - Web Development Full Stack na TRYBE.  
-    ⭐ Competências - JavaScript, HTML, CSS e Git.
-  </div>
-</div>
+So far I've created a few projects aiming to practice and improve my current skills and also programming logic. My favorite project so far was a Discord Bot (<a href="https://github.com/guillepinho/AstroBot">Astro</a>) created to moderate and entertain a 200 people community of friends.
+
+---
+
+```javascript
+const guilhermepinho = {
+  nickname: 'Guille',
+  currentPosition: 'Student at TRYBE',
+  currentSkills: [JavaScript, Node, Discord, Html, Css, Git],
+  learningSkills: [React, Ruby, Python, Elixir, Rust, Scala, NoSQL, Express, Orm].
+  passions: [Challenges, Games, Sports]
+}
+```
+---
 
 <div align="center">
   <a href="https://github.com/guillepinho">
