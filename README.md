@@ -1,7 +1,22 @@
-# Prazer, Guilherme Pinho!
+# Hello World, I'm Guilherme Pinho!
 
-📓 Estudante - Web Development Full Stack na TRYBE.  
-⭐ Competências - JavaScript, HTML e CSS.
+<div class="row">
+  <div class="column">
+    I love solving problems through softwares and coding.  
+      
+    📓 Student - Web Development Full Stack at TRYBE.  
+    ⭐ Skills - JavaScript, HTML, CSS and Git.  
+  </div>
+
+  
+  
+  <div class="column">
+    Passionado por resolver problemas por meio de softwares e codes.
+      
+    📓 Estudante - Web Development Full Stack na TRYBE.  
+    ⭐ Competências - JavaScript, HTML, CSS e Git.
+  </div>
+</div>
 
 <div align="center">
   <a href="https://github.com/guillepinho">
