@@ -10,8 +10,8 @@ So far I've created a few projects aiming to practice and improve my current ski
 const guilhermepinho = {
   nickname: 'Guille',
   currentPosition: 'Student at TRYBE',
-  currentSkills: [JavaScript, Node, Discord, Html, Css, Git],
-  learningSkills: [React, Ruby, Python, Elixir, Rust, Scala, NoSQL, Express, Orm].
+  currentSkills: [React, JavaScript, Node, Discord, Html, Css, Git],
+  learningSkills: [Ruby, Python, Elixir, Rust, Scala, NoSQL, Express, Orm].
   passions: [Challenges, Games, Sports]
 }
 ```
