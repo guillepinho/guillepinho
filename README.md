@@ -2,8 +2,6 @@
 
 I love **solving problems** through **softwares and coding**. Currently studing at <a href="https://www.betrybe.com/">TRYBE</a> to soon become a full stack Web Developer.
 
-So far I've created a few projects aiming to practice and improve my current skills and also programming logic. My favorite project so far was a Discord Bot (<a href="https://github.com/guillepinho/AstroBot">Astro</a>) created to moderate and entertain a 200 people community of friends.
-
 ---
 
 ```javascript
@@ -38,7 +36,5 @@ const guilhermepinho = {
   <a href="https://www.twitter.com/guille_pinho" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:guilherme.apinho@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-pinho-80762298/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/guillepinho/guilhermepinho/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
