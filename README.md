@@ -25,7 +25,6 @@ const guilhermepinho = {
   <img align="center" alt="guillepinho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="guillepinho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="guillepinho-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-ext-2.discordapp.net/external/xetij9QSg7rTeOVLuHNVSpOXALgfCN9dr9yy1Cf3gj4/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/232248550354845696/503f81b5772364a02a1c1c589262865b.png?width=468&height=468">
 </div>
   
   ##
