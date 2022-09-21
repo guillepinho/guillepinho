@@ -1,6 +1,6 @@
 # Hello World, I'm Guilherme Pinho!
 
-I love **solving problems** through **softwares and coding**. Currently studing at <a href="https://www.betrybe.com/">TRYBE</a> to soon become a full stack Web Developer.
+I love **solving problems** through **softwares and coding**. Currently studing Fullstack Web Development at <a href="https://www.betrybe.com/">TRYBE</a>.
 
 ---
 
