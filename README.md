@@ -8,7 +8,7 @@ I love **solving problems** through **softwares and coding**. Currently studying
 const guilhermepinho = {
   nickname: 'Guille',
   currentPosition: 'Student at TRYBE',
-  currentSkills: [React, JavaScript, Node, Discord, Html, Css, Git],
+  currentSkills: [Docker, MySQL, React, JavaScript, Node, Discord, Html, Css, Git],
   learningSkills: [Ruby, Python, Elixir, Rust, Scala, NoSQL, Express, Orm].
   passions: [Challenges, Games, Sports]
 }
