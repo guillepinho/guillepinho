@@ -1,6 +1,9 @@
 # Hello World, I'm Guilherme Pinho!
 
-I love **solving problems** through **softwares and coding**. Currently studying Fullstack Web Development at <a href="https://www.betrybe.com/">TRYBE</a>.
+I love **solving problems** through **softwares and coding**.
+
+Working at aFarma, as a Full Stack Software Dev.
+Studying at <a href="https://www.betrybe.com/">TRYBE</a>.
 
 ---
 
@@ -30,5 +33,6 @@ const guilhermepinho = {
   <img align="center" alt="guillepinho-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="guillepinho-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="guillepinho-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+  <img align="center" alt="guillepinho-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
 </div>
   
