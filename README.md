@@ -1,8 +1,9 @@
 # Hello World, I'm Guilherme Pinho!
 
-I love **solving problems** through **softwares and coding**.
+- I love **solving problems** through **softwares and coding**.
 
 Working at aFarma, as a Full Stack Software Dev.
+
 Studying at <a href="https://www.betrybe.com/">TRYBE</a>.
 
 ---
