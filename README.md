@@ -8,8 +8,8 @@ I love **solving problems** through **softwares and coding**. Currently studying
 const guilhermepinho = {
   nickname: 'Guille',
   currentPosition: 'Student at TRYBE',
-  currentSkills: [Docker, MySQL, React, JavaScript, Node, Discord, Html, Css, Git, MongoDB, Firebase],
-  learningSkills: [Ruby, Python, Elixir, Rust, Scala, Express, Orm].
+  currentSkills: [Docker, MySQL, Express, React, JavaScript, Node, Discord, Html, Css, Git, MongoDB, Firebase],
+  learningSkills: [Ruby, Python, Elixir, Rust, Scala, Orm].
   passions: [Challenges, Games, Sports]
 }
 ```
