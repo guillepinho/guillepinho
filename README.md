@@ -12,7 +12,7 @@ Studying at <a href="https://www.betrybe.com/">TRYBE</a>.
 const guilhermepinho = {
   nickname: 'Guille',
   currentPosition: 'FullStack Dev at aFarma',
-  currentSkills: [Docker, MySQL, Express, React, JavaScript, Node, Discord, Html, Css, Git, MongoDB, Firebase],
+  currentSkills: [Docker, MySQL, Express, React, JavaScript, Java, Node, Discord, Html, Css, Git, MongoDB, Firebase],
   learningSkills: [Ruby, Python, Elixir, Rust, Scala, Orm],
   passions: [Challenges, Games, Sports],
 }
@@ -27,6 +27,7 @@ const guilhermepinho = {
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="guillepinho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="guillepinho-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="guillepinho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="guillepinho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="guillepinho-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
