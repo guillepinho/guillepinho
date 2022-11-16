@@ -13,8 +13,8 @@ const guilhermepinho = {
   nickname: 'Guille',
   currentPosition: 'FullStack Dev at aFarma',
   currentSkills: [Docker, MySQL, Express, React, JavaScript, Node, Discord, Html, Css, Git, MongoDB, Firebase],
-  learningSkills: [Ruby, Python, Elixir, Rust, Scala, Orm].
-  passions: [Challenges, Games, Sports]
+  learningSkills: [Ruby, Python, Elixir, Rust, Scala, Orm],
+  passions: [Challenges, Games, Sports],
 }
 ```
 ---
