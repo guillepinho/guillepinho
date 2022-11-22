@@ -12,8 +12,8 @@ Studying at <a href="https://www.betrybe.com/">TRYBE</a>.
 const guilhermepinho = {
   nickname: 'Guille',
   currentPosition: 'FullStack Dev at aFarma',
-  currentSkills: [Docker, MySQL, Express, React, JavaScript, Java, Node, Discord, Html, Css, Git, MongoDB, Firebase],
-  learningSkills: [Ruby, Python, Elixir, Rust, Scala, Orm],
+  currentSkills: [Docker, MySQL, Express, React, JavaScript, Java, Node, Discord, Html, Css, Git, MongoDB, Firebase, Orm],
+  learningSkills: [Ruby, Python, Elixir, Rust, Scala],
   passions: [Challenges, Games, Sports],
 }
 ```
