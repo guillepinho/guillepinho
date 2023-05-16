@@ -2,7 +2,7 @@
 
 ### I love **solving problems** through **softwares and coding**.
 
-Working at <a href="https://github.com/senioramais">Seniora+</a>, as a Full Stack Software Dev.
+Working at <a href="https://github.com/senioramais">BENVO</a>, as a Full Stack Software Dev.
 
 Studying at <a href="https://www.betrybe.com/">TRYBE</a>.
 
