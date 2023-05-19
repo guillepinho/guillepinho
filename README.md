@@ -15,11 +15,11 @@ const guilhermepinho = {
   nicknames: ['Gui', 'Guille', 'Pinho'],
   currentPosition: 'Tech Lead / Fullstack DevOps',
   company: 'BENVO',
-  languages: [Javascript, Java, Python],
-  stacks: [Docker, Express, React, Node, Discord, AWS Cloud Computing, Terraform],
-  styling: [MUI, CSS, SCSS, Styled Components],
-  databases: [ORM, ODM, Knex, MySQL, Mongo, Firebase],
-  passions: [Challenges, Games, Sports, Leading],
+  languages: ['Javascript', 'Java', 'Python'],
+  stacks: ['Docker', 'Express', 'React', 'Node', 'Discord', 'AWS Cloud Computing', 'Terraform'],
+  styling: ['MUI', 'CSS', 'SCSS', 'Styled Components', 'ESLint'],
+  databases: ['ORM', 'ODM', 'Knex', 'MySQL', 'Mongo', 'Firebase'],
+  passions: ['Challenges', 'Games', 'Sports', 'Leading'],
 }
 ```
 ---
