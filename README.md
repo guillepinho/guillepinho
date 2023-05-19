@@ -13,10 +13,11 @@ Contact me at gpinho.dev@gmail.com
 ```javascript
 const guilhermepinho = {
   nicknames: ['Gui', 'Guille', 'Pinho'],
-  currentPosition: 'Tech Lead / Fullstack DevOps',
-  company: 'BENVO',
+  currentPosition: ['Tech Lead', 'Fullstack DevOps'],
+  company: ['BENVO'],
   languages: ['Javascript', 'Java', 'Python'],
   stacks: ['Docker', 'Express', 'React', 'Node', 'Discord', 'AWS Cloud Computing', 'Terraform'],
+  tests: ['Jest', 'Pytest', 'Cypress', 'RTL', 'mocha', 'chai', 'sinon'], 
   styling: ['MUI', 'CSS', 'SCSS', 'Styled Components', 'ESLint'],
   databases: ['ORM', 'ODM', 'Knex', 'MySQL', 'Mongo', 'Firebase'],
   passions: ['Challenges', 'Games', 'Sports', 'Leading'],
@@ -32,7 +33,7 @@ const guilhermepinho = {
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="guillepinho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="guillepinho-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python.svg">
+  <img align="center" alt="guillepinho-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pythonpython-original.svg">
   <img align="center" alt="guillepinho-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="guillepinho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="guillepinho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -42,5 +43,6 @@ const guilhermepinho = {
   <img align="center" alt="guillepinho-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="guillepinho-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
   <img align="center" alt="guillepinho-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="guillepinho-aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
   
