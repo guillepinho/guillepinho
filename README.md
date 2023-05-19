@@ -2,7 +2,7 @@
 
 ### I'm passionate about **leading**, **solving problems** through **softwares** and **coding**.
 
-Working at <a href="https://github.com/senioramais">BENVO</a>, as a FullStack DevOps.
+Working at <a href="https://github.com/senioramais">BENVO</a>, as a Tech Lead & FullStack DevOps.
 
 Made a Full Stack Developer by <a href="https://www.betrybe.com/">TRYBE</a>.
 
