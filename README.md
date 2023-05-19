@@ -2,9 +2,9 @@
 
 ### I'm passionate about **leading**, **solving problems** through **softwares** and **coding**.
 
-Working at <a href="https://github.com/senioramais">BENVO</a>, as a Full Stack Software Dev.
+Working at <a href="https://github.com/senioramais">BENVO</a>, as a FullStack DevOps.
 
-Full Stack Developer  <a href="https://www.betrybe.com/">TRYBE</a>.
+Made a Full Stack Developer by <a href="https://www.betrybe.com/">TRYBE</a>.
 
 Contact me at gpinho.dev@gmail.com
 
@@ -12,11 +12,14 @@ Contact me at gpinho.dev@gmail.com
 
 ```javascript
 const guilhermepinho = {
-  nickname: 'Guille',
-  currentPosition: 'FullStack Dev at aFarma',
-  currentSkills: [Docker, MySQL, Express, React, JavaScript, Java, Node, Discord, Html, Css, Git, MongoDB, Firebase, Orm],
-  learningSkills: [Ruby, Python, Elixir, Rust, Scala],
-  passions: [Challenges, Games, Sports],
+  nicknames: ['Gui', 'Guille', 'Pinho'],
+  currentPosition: 'Tech Lead / Fullstack DevOps',
+  company: 'BENVO',
+  languages: [Javascript, Java, Python],
+  stacks: [Docker, Express, React, Node, Discord, AWS Cloud Computing, Terraform],
+  styling: [MUI, CSS, SCSS, Styled Components],
+  databases: [ORM, ODM, Knex, MySQL, Mongo, Firebase],
+  passions: [Challenges, Games, Sports, Leading],
 }
 ```
 ---
