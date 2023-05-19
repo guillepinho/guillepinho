@@ -1,10 +1,12 @@
 # Hello World, I'm Guilherme Pinho!
 
-### I love **solving problems** through **softwares and coding**.
+### I'm passionate about **leading**, **solving problems** through **softwares** and **coding**.
 
 Working at <a href="https://github.com/senioramais">BENVO</a>, as a Full Stack Software Dev.
 
-Studying at <a href="https://www.betrybe.com/">TRYBE</a>.
+Full Stack Developer  <a href="https://www.betrybe.com/">TRYBE</a>.
+
+Contact me at gpinho.dev@gmail.com
 
 ---
 
