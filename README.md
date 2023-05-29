@@ -4,7 +4,7 @@
 
 Working at <a href="https://github.com/senioramais">BENVO</a>, as a Tech Lead & FullStack DevOps.
 
-Made a Full Stack Developer by <a href="https://www.betrybe.com/">TRYBE</a>.
+<a href="https://www.betrybe.com/">TRYBE</a> alumni.
 
 Contact me at gpinho.dev@gmail.com
 
