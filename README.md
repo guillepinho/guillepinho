@@ -15,11 +15,11 @@ const guilhermepinho = {
   nicknames: ['Gui', 'Guille', 'Pinho'],
   currentPosition: ['Tech Lead', 'Fullstack DevOps'],
   company: ['BENVO'],
-  languages: ['Javascript', 'Java', 'Python'],
-  stacks: ['Docker', 'Express', 'React', 'Node', 'Discord', 'AWS Cloud Computing', 'Terraform'],
+  languages: ['Javascript', 'Java', 'Python', 'C#'],
+  stacks: ['NextJS', 'Docker', 'Express', 'React', 'Node', 'Discord', 'AWS Cloud Computing', 'Terraform'],
   tests: ['Jest', 'Pytest', 'Cypress', 'RTL', 'mocha', 'chai', 'sinon'], 
-  styling: ['MUI', 'CSS', 'SCSS', 'Styled Components', 'ESLint'],
-  databases: ['ORM', 'ODM', 'Knex', 'MySQL', 'Mongo', 'Firebase'],
+  styling: ['Tailwind CSS', 'MUI', 'CSS', 'SCSS', 'Styled Components', 'ESLint'],
+  databases: ['ORM', 'ODM', 'Knex', 'MySQL', 'Mongo', 'Firebase', 'Supabase'],
   passions: ['Challenges', 'Games', 'Sports', 'Leading'],
 }
 ```
