@@ -1,4 +1,4 @@
-# Hello World, I'm Guilherme Pinho!
+# Hello there, I'm Guilherme Pinho!
 
 ### I'm passionate about **leading**, **solving problems** and **coding**.
 
