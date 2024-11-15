@@ -2,7 +2,7 @@
 
 ### I'm passionate about **leading**, **solving problems** and **coding**.
 
-Working at <a href="https://benvo.com.br" target="_blank">BENVO</a>, as a Tech Lead & FullStack Developer.
+CTO @ <a href="https://belvy.com.br" target="_blank">Belvy</a>.
 
 <a href="https://www.betrybe.com/">TRYBE</a> alumni.
 
@@ -13,9 +13,9 @@ Contact me at gpinho.dev@gmail.com
 ```javascript
 const guilhermepinho = {
   nicknames: ['Gui', 'Guille', 'Pinho'],
-  currentPosition: ['Tech Lead', 'Fullstack DevOps'],
-  company: ['BENVO'],
-  languages: ['Javascript', 'Java', 'Python', 'C#'],
+  currentPosition: ['CTO'],
+  company: ['Belvy'],
+  languages: ['Typescript/Javascript', 'Java', 'Python', 'C#'],
   stacks: ['NextJS', 'Docker', 'Express', 'React', 'Node', 'Discord', 'AWS Cloud Computing', 'Terraform'],
   tests: ['Jest', 'Pytest', 'Cypress', 'RTL', 'mocha', 'chai', 'sinon'], 
   styling: ['Tailwind CSS', 'MUI', 'CSS', 'SCSS', 'Styled Components', 'ESLint'],
