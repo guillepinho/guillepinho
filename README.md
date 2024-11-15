@@ -2,7 +2,7 @@
 
 ### I'm passionate about **leading**, **solving problems** and **coding**.
 
-CTO @ <a href="https://belvy.com.br" target="_blank">Belvy</a>.
+CTO and Founder @ <a href="https://belvy.com.br" target="_blank">Belvy</a>.
 
 <a href="https://www.betrybe.com/">TRYBE</a> alumni.
 
