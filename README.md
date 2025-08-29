@@ -15,8 +15,8 @@ const guilhermepinho = {
   nicknames: ['Gui', 'Guille', 'Pinho'],
   currentPosition: ['CTO'],
   company: ['Belvy'],
-  languages: ['Typescript/Javascript', 'Java', 'Python', 'C#'],
-  stacks: ['NextJS', 'Docker', 'Express', 'React', 'Node', 'Discord', 'AWS Cloud Computing', 'Terraform'],
+  languages: ['Typescript/Javascript', 'Ruby', 'Java', 'Python', 'C#'],
+  stacks: ['NextJS', 'Docker', 'Express', 'React', 'Node', 'Ruby on Rails', 'Nest.JS', 'Next.JS', 'Discord', 'AWS Cloud Computing', 'Terraform'],
   tests: ['Jest', 'Pytest', 'Cypress', 'RTL', 'mocha', 'chai', 'sinon'], 
   styling: ['Tailwind CSS', 'MUI', 'CSS', 'SCSS', 'Styled Components', 'ESLint'],
   databases: ['ORM', 'ODM', 'Knex', 'MySQL', 'Mongo', 'Firebase', 'Supabase'],
@@ -32,7 +32,8 @@ const guilhermepinho = {
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="guillepinho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="guillepinho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="guillepinho-rb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg">
   <img align="center" alt="guillepinho-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="guillepinho-cs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="guillepinho-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
