@@ -2,7 +2,7 @@
 
 ### I'm passionate about **leading**, **solving problems** and **coding**.
 
-Currently Software Engineer for <a href="https://www.betrybe.com/">Beep Saúde</a>
+Currently Software Engineer for <a href="https://beepsaude.com.br/">Beep Saúde</a>
 
 Former CTO and Founder @ Belvy.
 
