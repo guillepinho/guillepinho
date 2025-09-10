@@ -15,8 +15,8 @@ Contact me at gpinho.dev@gmail.com
 ```javascript
 const guilhermepinho = {
   nicknames: ['Gui', 'Guille', 'Pinho'],
-  currentPosition: ['CTO'],
-  company: ['Belvy'],
+  currentPosition: ['Senior Software Engineer'],
+  company: ['Beep Saude'],
   languages: ['Typescript/Javascript', 'Ruby', 'Java', 'Python', 'C#'],
   stacks: ['NextJS', 'Docker', 'Express', 'React', 'Node', 'Ruby on Rails', 'Nest.JS', 'Next.JS', 'Discord', 'AWS Cloud Computing', 'Terraform'],
   tests: ['Jest', 'Pytest', 'Cypress', 'RTL', 'mocha', 'chai', 'sinon'], 
