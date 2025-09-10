@@ -1,8 +1,8 @@
 # Hello there, I'm Guilherme Pinho!
 
-### I'm passionate about **leading**, **solving problems** and **coding**.
+### I'm passionate about **leading**, **building**, **solving problems** and **coding**.
 
-Currently Software Engineer for <a href="https://beepsaude.com.br/">Beep Saúde</a>
+Software Engineer for <a href="https://beepsaude.com.br/">Beep Saúde</a>
 
 Former CTO and Founder @ Belvy.
 
@@ -22,7 +22,7 @@ const guilhermepinho = {
   tests: ['Jest', 'Pytest', 'Cypress', 'RTL', 'mocha', 'chai', 'sinon'], 
   styling: ['Tailwind CSS', 'MUI', 'CSS', 'SCSS', 'Styled Components', 'ESLint'],
   databases: ['ORM', 'ODM', 'Knex', 'MySQL', 'Mongo', 'Firebase', 'Supabase'],
-  passions: ['Challenges', 'Games', 'Sports', 'Leading'],
+  passions: ['Challenges', 'Games', 'Sports', 'Leading', 'IoT'],
 }
 ```
 ---
