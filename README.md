@@ -2,7 +2,7 @@
 
 ### I'm passionate about **leading**, **building**, **solving problems** and **coding**.
 
-Software Engineer for <a href="https://beepsaude.com.br/">Beep Saúde</a>
+Tech Lead at <a href="https://beepsaude.com.br/">Beep Saúde</a>
 
 Former CTO and Founder @ Belvy.
 
@@ -15,7 +15,7 @@ Contact me at gpinho.dev@gmail.com
 ```javascript
 const guilhermepinho = {
   nicknames: ['Gui', 'Guille', 'Pinho'],
-  currentPosition: ['Senior Software Engineer'],
+  currentPosition: ['Tech Lead'],
   company: ['Beep Saude'],
   languages: ['Typescript/Javascript', 'Ruby', 'Java', 'Python', 'C#'],
   stacks: ['NextJS', 'Docker', 'Express', 'React', 'Node', 'Ruby on Rails', 'Nest.JS', 'Next.JS', 'Discord', 'AWS Cloud Computing', 'Terraform'],
