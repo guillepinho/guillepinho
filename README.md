@@ -18,7 +18,7 @@ const guilhermepinho = {
   company: 'Beep Saude',
   languages: ['Typescript/Javascript', 'Ruby', 'Java', 'Python', 'C#'],
   docker: true,
-  favorite_stacks: ['Next.js', 'NestJS', 'Ruby on Rails'],
+  favorite_framework: ['Next.js', 'NestJS', 'Ruby on Rails'],
   tests: ['Jest', 'Cypress', 'RTL', 'rspec'], 
   styling: ['Tailwind CSS', 'CSS', 'Styled Components'],
   databases: ['PostgreSQL', 'MySQL', 'Mongo', 'Firebase', 'Supabase'],
