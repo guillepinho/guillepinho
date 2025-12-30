@@ -6,8 +6,6 @@ Tech Lead at <a href="https://beepsaude.com.br/">Beep Saúde</a>
 
 Former CTO and Founder @ Belvy.
 
-<a href="https://www.betrybe.com/">TRYBE</a> alumni.
-
 Contact me at gpinho.dev@gmail.com
 
 ---
