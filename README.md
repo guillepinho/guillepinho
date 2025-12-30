@@ -13,14 +13,16 @@ Contact me at gpinho.dev@gmail.com
 ```javascript
 const guilhermepinho = {
   nicknames: ['Gui', 'Guille', 'Pinho'],
-  currentPosition: ['Tech Lead'],
-  company: ['Beep Saude'],
+  currentPosition: 'Tech Lead',
+  specialty: 'Fullstack',
+  company: 'Beep Saude',
   languages: ['Typescript/Javascript', 'Ruby', 'Java', 'Python', 'C#'],
-  stacks: ['NextJS', 'Docker', 'Express', 'React', 'Node', 'Ruby on Rails', 'Nest.JS', 'Next.JS', 'Discord', 'AWS Cloud Computing', 'Terraform'],
-  tests: ['Jest', 'Pytest', 'Cypress', 'RTL', 'mocha', 'chai', 'sinon'], 
-  styling: ['Tailwind CSS', 'MUI', 'CSS', 'SCSS', 'Styled Components', 'ESLint'],
-  databases: ['ORM', 'ODM', 'Knex', 'MySQL', 'Mongo', 'Firebase', 'Supabase'],
-  passions: ['Challenges', 'Games', 'Sports', 'Leading', 'IoT'],
+  docker: true,
+  favorite_stacks: ['Next.js', 'NestJS', 'Ruby on Rails'],
+  tests: ['Jest', 'Cypress', 'RTL', 'rspec'], 
+  styling: ['Tailwind CSS', 'CSS', 'Styled Components'],
+  databases: ['PostgreSQL', 'MySQL', 'Mongo', 'Firebase', 'Supabase'],
+  passions: ['Games', 'Sports', 'Leading', 'IoT'],
 }
 ```
 ---
