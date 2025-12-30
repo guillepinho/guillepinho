@@ -25,12 +25,6 @@ const guilhermepinho = {
 ```
 ---
 
-<div align="center">
-  <a href="https://github.com/guillepinho">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guillepinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillepinho&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="guillepinho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="guillepinho-rb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg">
