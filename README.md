@@ -22,7 +22,7 @@ const guilhermepinho = {
   tests: ['Jest', 'Cypress', 'RTL', 'rspec'], 
   styling: ['Tailwind CSS', 'CSS', 'Styled Components'],
   databases: ['PostgreSQL', 'MySQL', 'Mongo', 'Firebase', 'Supabase'],
-  passions: ['Games', 'Sports', 'Leading', 'IoT'],
+  passions: ['Games', 'Sports'],
 }
 ```
 ---
