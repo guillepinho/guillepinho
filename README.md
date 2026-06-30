@@ -1,6 +1,6 @@
 # Hello there, I'm Guilherme Pinho!
 
-### I'm passionate about **leading**, **building**, **solving problems** and **coding**.
+### I'm passionate about **leading**, **building** and **coding**.
 
 Tech Lead at <a href="https://beepsaude.com.br/">Beep Saúde</a>
 
